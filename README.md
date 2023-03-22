@@ -30,7 +30,7 @@ Further consideration will be given to Lasso if it successfully selects fewer va
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- The most important features to determine the price of a property are:
+The most important features to determine the price of a property are:
 1. The overall material and finish of the house
 2. First Floor Area
 3. Second Floor Area
