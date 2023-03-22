@@ -53,7 +53,7 @@ The most important features to determine the price of a property are:
 - Now you can run the whole Notebook (`BHousing Price Analysis.ipynb`) from top to bottom.
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@showman-sharma] - feel free to contact me!
 
 
 <!-- Optional -->
