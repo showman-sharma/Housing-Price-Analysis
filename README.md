@@ -20,7 +20,7 @@ In this assignment, we will
 
 1. Use a hybrid combination of RFE and manual menthods for feature selection.
 2. build a linear regression model with ridge and lasso regularization for predicting 'SalePrice', which is the final selling price of a property.
-3. Find optimal regularization parameters for each of the methods.
+3. Find optimal regularization parameters for each of the methods using Grid search with K-Fold cross validation.
 4. Use R-squared score on the test set to evaluate our model
 5. Decide which model to go with.
 
